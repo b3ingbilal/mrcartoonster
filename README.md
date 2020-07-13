@@ -1,4 +1,4 @@
-![code](chris-ried-ieic5Tq8YMk-unsplash.jpg)
+![code](chris-ried-ieic5Tq8YMk-unsplash.png)
 
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
