@@ -1,16 +1,12 @@
-### Hi there 👋
+![](chris-ried-ieic5Tq8YMk-unsplash.jpg)
 
-<!--
-**mrcartoonster/mrcartoonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
+  articles.
+- 🌱 I’m currently learning [Typer](https://typer.tiangolo.com/)
+- 👯 I’m looking to collaborate on Whatever you want to coloborate in
+- 🤔 I’m looking for help with Twitter game
+- 💬 Ask me about Python for loops
+- 📫 How to reach me: mrcartoonster@gmail.com
+- 😄 Pronouns: He/Him/Homie
+- ⚡ Fun fact: I'm from Miami, FL
