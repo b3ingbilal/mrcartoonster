@@ -1,4 +1,4 @@
-![code](chris-ried-ieic5Tq8YMk-unsplash.png)
+![code](Synthwave-Neon-80s-Background-4K.jpg)
 
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
