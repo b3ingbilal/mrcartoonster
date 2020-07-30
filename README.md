@@ -12,7 +12,7 @@
 
 ## Technoligies Currently using
 ----
-![](![Digital Ocean](https://img.shields.io/badge/Cloud-DigitalOcean-gray?style=for-the-badge&logo=digitalocean&logoColor=white&color=black&link=https://m.do.co/c/beef14f5483f)
+![Digital Ocean](https://img.shields.io/badge/Cloud-DigitalOcean-gray?style=for-the-badge&logo=digitalocean&logoColor=white&color=black&link=https://m.do.co/c/beef14f5483f
 
 
 
