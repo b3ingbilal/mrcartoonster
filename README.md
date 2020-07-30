@@ -10,3 +10,5 @@
 - 📫 How to reach me: mrcartoonster@gmail.com
 - 😄 Pronouns: He/Him/Homie
 - ⚡ Fun fact: I'm from Miami, FL
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrcartoonster&show_icons=true&theme=radical)
+
