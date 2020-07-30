@@ -1,4 +1,4 @@
-[![Header](images/Synthwave-Neon-80s-Background-4K.jpg)]
+![Header](images/Synthwave-Neon-80s-Background-4K.jpg)
 
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
