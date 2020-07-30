@@ -1,5 +1,4 @@
 ![Header](https://www.rafaeldejongh.com/wp-content/uploads/2017/08/Synthwave-Neon-80s-Background-Marmoset-Revamp.jpg)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/mrcartoosnter/typer-passwd)
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
   articles.
@@ -13,7 +12,7 @@
 
 ## Technoligies Currently using
 ----
-![Digital Ocean](![Digital Ocean](https://img.shields.io/badge/Cloud-DigitalOcean-gray?style=for-the-badge&logo=digitalocean&logoColor=white&color=black&link=https://m.do.co/c/beef14f5483f)
+![](![Digital Ocean](https://img.shields.io/badge/Cloud-DigitalOcean-gray?style=for-the-badge&logo=digitalocean&logoColor=white&color=black&link=https://m.do.co/c/beef14f5483f)
 
 
 
