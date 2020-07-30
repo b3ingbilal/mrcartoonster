@@ -1,4 +1,4 @@
-![Header](images/Synthwave-Neon-80s-Background-4K.jpg)
+![Header](https://www.rafaeldejongh.com/wp-content/uploads/2017/08/Synthwave-Neon-80s-Background-Marmoset-Revamp.jpg)
 
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
