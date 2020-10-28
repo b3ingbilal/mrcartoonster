@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [evanbaird.io](https://evanbaird.io) Python
   articles.
-- 🌱 I’m currently learning [FastAPI](https://testdriven.io/courses/tdd-fastapi/?utm_source=mrcartoonster
+- 🌱 I’m currently learning [FastAPI](https://testdriven.io/courses/tdd-fastapi/?utm_source=mrcartoonster)
 - 👯 I’m looking to collaborate on Whatever you want to coloborate in
 - 🤔 I’m looking for help with My [Twitter](https://twitter.com/mrcartoonster) game
 - 💬 Ask me about Python for loops
